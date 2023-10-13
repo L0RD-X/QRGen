@@ -1,4 +1,4 @@
-# =============[ QRGEN LIB ]============#
+# =============[ QRGEN App ]============#
 # Author: @L0RD-X
 # Version: Beta(0.1)
 
