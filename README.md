@@ -1,5 +1,5 @@
 # QRGen(Beta)
-Gerador de QRCode com python e GUI, foi pensado para ser altamente customizavel, em algum futuro pode ser que dê para colocar logo, mas por enquanto só dá pra definir as cores. Uma das vanteagens é não precisar instalar, assim como o [Rufus](https://rufus.ie/pt_BR/), pode ser utilizado sem instalar, só baixar e rodar, é prático.
+Gerador de QRCode com python e GUI, foi pensado para ser altamente customizavel, em algum futuro pode ser que dê para colocar logo, mas por enquanto só dá pra definir as cores. Uma das vantagens é não precisar instalar, assim como o [Rufus](https://rufus.ie/pt_BR/), só baixar e rodar, é prático.
 
 # Como Funciona
 O programa utiliza as bibliotecas <br>
