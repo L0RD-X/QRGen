@@ -8,4 +8,4 @@ basta fornecer o dado quer quer transformar em qrcode, a cor do fundo, do qrcode
 
 # releases
 
-[Release1.0(beta)]()
+[Release1.0(beta)](https://www.mediafire.com/file/zxk74b2en7kwvtc/QRGen.exe/file)
